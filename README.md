@@ -1,6 +1,8 @@
 # dictcc-offline
 FPC/Lazarus App for DICTCCs SQLite DB
+
 needs libsqlite3.so on linux or sqlite3.dll
+
 on ubuntu: sudo apt-get install libsqlite3-dev
 
 # Usage
